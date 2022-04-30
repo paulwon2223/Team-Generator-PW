@@ -17,7 +17,7 @@
 
 #### Additional Documents:
 
-- link to github repo:
+- link to github repo: https://github.com/paulwon2223/Team-Generator-PW
 - link to video: https://www.youtube.com/watch?v=BIInxw5wKXk
 <br>
 - Screenshots:
