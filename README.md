@@ -21,6 +21,6 @@
 - link to video: https://www.youtube.com/watch?v=BIInxw5wKXk
 <br>
 - Screenshots:
-![img](./img/)<img width="1500" alt="inqss" src="https://user-images.githubusercontent.com/98055899/166125779-93664317-b2bb-4e60-a1ad-46717a02167f.png">
-![img](./img/testss.png)
-![img](./img/mainpage.png)
+<img width="1500" alt="inqss" src="https://user-images.githubusercontent.com/98055899/166125798-ea6af2b6-7546-4f84-b893-ade4274cc918.png">
+<img width="1498" alt="testss" src="https://user-images.githubusercontent.com/98055899/166125806-76b5ce0c-0801-4757-8ab1-c8ca50f33474.png">
+<img width="1728" alt="mainpage" src="https://user-images.githubusercontent.com/98055899/166125810-253c3c1e-5bea-48b4-8a62-09887cf52ca5.png">
