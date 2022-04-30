@@ -21,6 +21,6 @@
 - link to video: https://www.youtube.com/watch?v=BIInxw5wKXk
 <br>
 - Screenshots:
-![img](./img/inqss.png)
+![img](./img/)<img width="1500" alt="inqss" src="https://user-images.githubusercontent.com/98055899/166125779-93664317-b2bb-4e60-a1ad-46717a02167f.png">
 ![img](./img/testss.png)
 ![img](./img/mainpage.png)
